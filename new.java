@@ -25,10 +25,10 @@ class FirstClass{
             for(int j=1;j<=a-i;j++){
                 System.out.print("*");
             }
-            for(int k=0;k<=2*i;k++){
+            for(int j=0;j<=2*i;j++){
                 System.out.print(" ");
             }
-            for(int l=1;l<=a-i;l++){
+            for(int j=1;j<=a-i;j++){
                 System.out.print("*");
             }
             
