@@ -2,6 +2,7 @@ import java.util.*;
 
 class FirstClass{
     public static void main(String[] args){
+        //Butterfly pattern
         int a;
         System.out.print("Enter a : ");
         Scanner scan= new Scanner(System.in);
