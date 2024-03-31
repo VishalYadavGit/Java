@@ -5,7 +5,7 @@ public class fibonacciSeries {
             int tempVar=previousNum;
             previousNum=start;
             start=start+tempVar;
-            System.err.println(start);
+            System.err.print(start+" ");
         }
     }
     public static void main(String arg[]){
