@@ -1,6 +1,6 @@
-import java.util.*;
+import java.util.Scanner;
 
-class FirstClass{
+public class FirstClass {
     public static void main(String[] args){
         //Butterfly pattern
         int a;
@@ -36,4 +36,5 @@ class FirstClass{
         }
         
 
-    }}
+    }
+}
