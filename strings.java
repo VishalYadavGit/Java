@@ -15,7 +15,7 @@ public class strings {
 
         //comparing two strings
         String name="Grey";
-        String name2= "Ruby";
+        String name2= "Gorgia";
         System.out.println(name.compareTo(name2)); //give an integer which deterimines alphabetically if the smaller, larger or equal to the other string.
 
 
