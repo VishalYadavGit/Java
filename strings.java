@@ -1,5 +1,10 @@
 public class strings {
     public static void main(String args[]){
+        
+        
+        // Stings are immutable in JAVA.
+
+
         String hey = "Hello bro"; //ways of declaring a string.
         System.out.println(hey);
         System.out.println(hey.length()); // print length of the string 
