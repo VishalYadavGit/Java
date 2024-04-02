@@ -11,8 +11,12 @@ public class strings {
         //comparing two strings
         String name="Grey";
         String name2= "Ruby";
-
         System.out.println(name.compareTo(name2)); //give an integer which deterimines alphabetically if the smaller, larger or equal to the other string.
+
+
+        //Spliting strings in java similar to python split where we provide starting and ending index of the new string in the parent string
+        String onlyHello = hey.substring(0, 5);
+        System.out.println(onlyHello);
     
     }
 }
